@@ -1,0 +1,22 @@
+{
+  "name": "lab-11",
+  "version": "1.0.0",
+  "description": "",
+  "main": "node.js",
+  "scripts": {
+    "start": "node index.js",
+    "start-dev": "nodemon index.js",
+    "test": "jest --verbose --coverage",
+    "test-watch": "jest --watchAll --verbose --coverage"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/blandine-401javascript/lab-11.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/blandine-401javascript/lab-11/issues"
+  },
+  "homepage": "https://github.com/blandine-401javascript/lab-11#readme"
+}
